@@ -1,0 +1,31 @@
+*{
+    background-color: beige;
+}
+
+#m{
+    margin: 70px;
+    border: 50px solid rgba(227, 196, 19, 0.902);
+    padding: 2in;
+    height: 3in;
+    width: 7in;
+    position: absolute;
+
+}
+
+.aa{
+    color: palevioletred;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    font-size:xx-large;
+
+}
+
+.bb{
+    margin: 1in;
+    color: palevioletred;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    font-size:xx-large;
+}
